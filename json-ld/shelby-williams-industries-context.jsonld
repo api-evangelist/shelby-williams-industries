@@ -1,0 +1,71 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "swi": "https://api-evangelist.github.io/shelby-williams-industries/vocab#",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "identifier": "schema:identifier",
+    "FurnitureProduct": {
+      "@id": "schema:Product",
+      "@type": "@id"
+    },
+    "productLine": {
+      "@id": "schema:category",
+      "@type": "schema:Text"
+    },
+    "material": {
+      "@id": "schema:material",
+      "@type": "schema:Text"
+    },
+    "finish": {
+      "@id": "swi:finish",
+      "@type": "schema:Text"
+    },
+    "seatHeight": {
+      "@id": "swi:seatHeight",
+      "@type": "schema:QuantitativeValue"
+    },
+    "overallHeight": {
+      "@id": "swi:overallHeight",
+      "@type": "schema:QuantitativeValue"
+    },
+    "weightCapacity": {
+      "@id": "swi:weightCapacity",
+      "@type": "schema:QuantitativeValue"
+    },
+    "stackable": {
+      "@id": "swi:stackable",
+      "@type": "schema:Boolean"
+    },
+    "stackHeight": {
+      "@id": "swi:stackHeight",
+      "@type": "schema:Number"
+    },
+    "upholsteryGrade": {
+      "@id": "swi:upholsteryGrade",
+      "@type": "schema:Text"
+    },
+    "CustomOrder": {
+      "@id": "schema:Order",
+      "@type": "@id"
+    },
+    "orderQuantity": {
+      "@id": "schema:orderQuantity",
+      "@type": "schema:Number"
+    },
+    "leadTime": {
+      "@id": "swi:leadTime",
+      "@type": "schema:Text"
+    },
+    "comFabric": {
+      "@id": "swi:comFabric",
+      "@type": "schema:Boolean"
+    },
+    "manufacturer": {
+      "@id": "schema:manufacturer",
+      "@type": "schema:Organization"
+    }
+  }
+}

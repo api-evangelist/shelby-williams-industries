@@ -1,0 +1,55 @@
+vocabulary:
+  name: Shelby Williams Industries Vocabulary
+  description: Domain vocabulary for Shelby Williams Industries contract hospitality furniture manufacturing.
+  version: '1.0'
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  terms:
+    - term: Contract Furniture
+      definition: Commercially specified, manufactured-to-order furniture sold through architects, interior designers, and procurement specialists for hospitality, restaurant, and institutional settings.
+      category: Industry
+      tags:
+        - Manufacturing
+        - B2B
+    - term: Banquet Seating
+      definition: Stacking, folding, and linking chairs and tables designed for large event spaces, ballrooms, and multi-purpose hospitality venues.
+      category: Products
+      tags:
+        - Products
+        - Hospitality
+    - term: Made-to-Order (MTO)
+      definition: Shelby Williams custom manufacturing process where furniture is produced according to buyer-specified fabric, finish, and construction requirements.
+      category: Manufacturing
+      tags:
+        - Manufacturing
+        - Custom
+    - term: HUBZone Manufacturer
+      definition: Federally designated Historically Underutilized Business Zone manufacturer classification held by Shelby Williams' Newport, Tennessee production facility.
+      category: Operations
+      tags:
+        - Manufacturing
+        - Compliance
+    - term: FF&E
+      definition: Furniture, Fixtures and Equipment — the standard procurement category in hospitality and construction projects encompassing contract furniture from suppliers like Shelby Williams.
+      category: Industry
+      tags:
+        - Industry
+        - Procurement
+    - term: COM (Customer's Own Material)
+      definition: Option for hospitality clients to supply their own fabric or upholstery material to Shelby Williams for application to custom-ordered seating.
+      category: Manufacturing
+      tags:
+        - Custom
+        - Materials
+    - term: Grade
+      definition: Fabric or material classification system used by Shelby Williams to categorize upholstery materials by durability, composition, and pricing tier.
+      category: Products
+      tags:
+        - Materials
+        - Pricing
+    - term: Hospitality Seating
+      definition: Contract chairs, barstools, and lounge seating designed specifically for durability and aesthetics in hotel, restaurant, and food service environments.
+      category: Products
+      tags:
+        - Products
+        - Hospitality

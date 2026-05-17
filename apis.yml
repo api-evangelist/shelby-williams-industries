@@ -7,7 +7,7 @@ tags:
   - Hospitality
   - Manufacturing
   - Seating
-type: Contract
+kind: contract
 image: https://www.shelbywilliams.com/wp-content/uploads/2021/09/sw-logo.png
 access: 3rd-Party
 created: '2025-01-01'

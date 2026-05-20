@@ -27,6 +27,8 @@ maintainers:
     email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/shelby-williams
   - url: https://www.shelbywilliams.com
     type: Website
   - url: https://www.shelbywilliams.com/custom-furniture

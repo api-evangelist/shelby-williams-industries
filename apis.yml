@@ -27,6 +27,8 @@ maintainers:
     email: kin@apievangelist.com
 specificationVersion: '0.19'
 common:
+  - type: DomainSecurity
+    url: security/shelby-williams-industries-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/shelby-williams
   - url: https://www.shelbywilliams.com
@@ -37,3 +39,5 @@ common:
     type: About
   - url: https://www.shelbywilliams.com/contact
     type: Contact
+  - url: https://www.shelbywilliams.com/blog/news
+    type: Blog
